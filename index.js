@@ -38,3 +38,10 @@ function makeInt(n){
   var product = parseInt(n , 10)
   return product;
 }
+
+
+function perserveDecimal(n){
+  var product = parseInt(n , 10)
+  return product;
+}
+
