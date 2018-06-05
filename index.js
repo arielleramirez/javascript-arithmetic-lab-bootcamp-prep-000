@@ -17,3 +17,8 @@ function divide(x,y){
   var product = x / y;
   return product;
 }
+
+function inc(n){
+  var product = n;
+  return product;
+}
