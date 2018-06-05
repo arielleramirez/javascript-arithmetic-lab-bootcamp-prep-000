@@ -1,7 +1,5 @@
-var add = function add(){
-  80 + 1
-  return add
+function add(x, y) {
+  return 1 + 80
 }
- 
 
   
