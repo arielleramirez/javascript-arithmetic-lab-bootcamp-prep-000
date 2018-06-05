@@ -35,6 +35,6 @@ function makeInt(n){
 }
 
 function makeInt(n){
-  var product = parseInt(10)
+  var product = parseInt(n , 10)
   return product;
 }
