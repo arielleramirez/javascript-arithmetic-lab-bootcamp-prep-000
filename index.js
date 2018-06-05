@@ -27,3 +27,9 @@ function dec(n){
   var product = n - 1;
   return product;
 }
+
+
+function makeInt(n){
+  var product = parseInt(n)
+  return product;
+}
