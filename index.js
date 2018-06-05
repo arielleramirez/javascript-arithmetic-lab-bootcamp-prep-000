@@ -22,3 +22,8 @@ function inc(n){
   var product = n + 1;
   return product;
 }
+
+function dec(n){
+  var product = n - 1;
+  return product;
+}
