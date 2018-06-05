@@ -1,6 +1,6 @@
 var test = function add(x,y) {
-  var product = 1 + 80;
-  return product;
+  var add = 1 + 80;
+  return add;
 }
 
   
