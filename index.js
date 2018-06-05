@@ -40,8 +40,8 @@ function makeInt(n){
 }
 
 
-function perserveDecimal(n){
-  var product = parseInt(n)
+function preserveDecimal(n){
+  var product = par(n)
   return product;
 }
 
