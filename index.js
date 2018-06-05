@@ -1,4 +1,4 @@
 function add(x, y) {
-  var product = 1 + 80;
+  var product = x + y;
   return product;
 }  
