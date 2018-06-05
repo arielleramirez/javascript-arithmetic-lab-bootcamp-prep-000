@@ -41,7 +41,7 @@ function makeInt(n){
 
 
 function preserveDecimal(n){
-  var product = par(n)
+  var product = parFloat(n)
   return product;
 }
 
