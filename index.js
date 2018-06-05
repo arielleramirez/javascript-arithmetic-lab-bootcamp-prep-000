@@ -1,2 +1,2 @@
-add(1,80);
+var test = add(1,80);
   
