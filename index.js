@@ -1,6 +1,7 @@
-var test = function add(x,y) {
-  var add = 1 + 80;
-  return add;
+var number = 1
+function add() {
+  number += 80
 }
 
+console.log(number)
   
