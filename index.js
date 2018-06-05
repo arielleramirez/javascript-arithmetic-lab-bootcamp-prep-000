@@ -19,6 +19,6 @@ function divide(x,y){
 }
 
 function inc(n){
-  var product = n;
+  var product = n + 1;
   return product;
 }
